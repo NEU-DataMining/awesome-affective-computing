@@ -1,2 +1,3 @@
-# Awesome Affective Computing:nerd_face:
+# Awesome Affective Computing
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
