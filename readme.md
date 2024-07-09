@@ -49,3 +49,10 @@
 </td> 
   </tr>
 </tbody>
+
+
+![bg1](https://github.com/NEU-DataMining/awesome-affective-computing/assets/123424732/88794d3f-a4a6-48bb-8cfd-28d73025f024)
+
+
+
+
