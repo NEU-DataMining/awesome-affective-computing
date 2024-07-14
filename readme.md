@@ -1,7 +1,9 @@
 # Awesome Affective Computing
+
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-## The traditional tasks of Affective Computing
+## 🤖 The traditional tasks of Affective Computing
+
 <table class="tg">
 <thead>
   <tr>
@@ -52,6 +54,33 @@
 
 
 ![bg1](https://github.com/NEU-DataMining/awesome-affective-computing/assets/123424732/88794d3f-a4a6-48bb-8cfd-28d73025f024)
+
+
+## Paper List
+<table>
+    <tr>
+        <td rowspan='2'align='center'>Title</td>
+        <td colspan='4'align='center'>Category</td>
+        <td rowspan='2'align='center'>KeyWords</td>
+        <td rowspan='2'align='center'>Paper</td>
+    </tr>
+    <tr>
+        <td align='center'>Preliminary Study</td>
+        <td align='center'>Instruction Tuning</td>
+        <td align='center'>Prompt Engineering</td>
+        <td align='center'>Benchmark</td>
+    </tr>
+    <tr>
+        <td align='center'>Is ChatGPT Equipped with Emotional Dialogue Capabilities?</td>
+        <td align='center'>&check;</td>
+        <td align='center'>-</td>
+        <td align='center'>-</td>
+        <td align='center'>-</td>
+        <td align='center'>Environment Simulation</td>
+        <td align='center'><a href="https://arxiv.org/abs/2210.03629">Paper</a></td>
+    </tr>
+</table>
+
 
 
 
