@@ -76,8 +76,17 @@
         <td align='center'>-</td>
         <td align='center'>-</td>
         <td align='center'>-</td>
-        <td align='center'>Environment Simulation</td>
-        <td align='center'><a href="https://arxiv.org/abs/2210.03629">Paper</a></td>
+        <td align='center'></td>
+        <td align='center'><a href="http://arxiv.org/abs/2304.09582">Paper</a></td>
+    </tr>
+    <tr>
+        <td align='center'>A Wide Evaluation of ChatGPT on Affective Computing Tasks</td>
+        <td align='center'>&check;</td>
+        <td align='center'>-</td>
+        <td align='center'>&check;</td>
+        <td align='center'>&check;</td>
+        <td align='center'></td>
+        <td align='center'><a href="http://arxiv.org/abs/2308.13911">Paper</a></td>
     </tr>
 </table>
 
