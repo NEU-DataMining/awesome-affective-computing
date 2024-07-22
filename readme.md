@@ -57,40 +57,10 @@
 
 
 ## Paper List
-<table>
-    <tr>
-        <td rowspan='2'align='center'>Title</td>
-        <td colspan='4'align='center'>Category</td>
-        <td rowspan='2'align='center'>KeyWords</td>
-        <td rowspan='2'align='center'>Paper</td>
-    </tr>
-    <tr>
-        <td align='center'>Preliminary Study</td>
-        <td align='center'>Instruction Tuning</td>
-        <td align='center'>Prompt Engineering</td>
-        <td align='center'>Benchmark</td>
-    </tr>
-    <tr>
-        <td align='center'>Is ChatGPT Equipped with Emotional Dialogue Capabilities?</td>
-        <td align='center'>&check;</td>
-        <td align='center'>-</td>
-        <td align='center'>-</td>
-        <td align='center'>-</td>
-        <td align='center'></td>
-        <td align='center'><a href="http://arxiv.org/abs/2304.09582">Paper</a></td>
-    </tr>
-    <tr>
-        <td align='center'>A Wide Evaluation of ChatGPT on Affective Computing Tasks</td>
-        <td align='center'>&check;</td>
-        <td align='center'>-</td>
-        <td align='center'>&check;</td>
-        <td align='center'>&check;</td>
-        <td align='center'></td>
-        <td align='center'><a href="http://arxiv.org/abs/2308.13911">Paper</a></td>
-    </tr>
-</table>
-
-
+### 1. PRELIMINARY STUDY
+#### 1.1 Affective Understanding
+1. **"A survey of sentiment analysis: Approaches, datasets, and future research"**. [[Paper](https://arxiv.org/abs/1910.10683)] 
+2. **"mT5: A massively multilingual pre-trained text-to-text transformer"**. [[Paper](https://arxiv.org/abs/2010.11934)]
 
 
 
