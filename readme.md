@@ -55,7 +55,16 @@
 ### 1. PRELIMINARY STUDY
 #### 1.1 Affective Understanding
 1. **"A survey of sentiment analysis: Approaches, datasets, and future research"**. [[Paper](https://arxiv.org/abs/1910.10683)] 
-2. **"mT5: A massively multilingual pre-trained text-to-text transformer"**. [[Paper](https://arxiv.org/abs/2010.11934)]
+2. **"A review on sentiment analysis from social media platforms"**. [[Paper](https://arxiv.org/abs/2010.11934)]
+3. **"Multimodal sentiment analysis: a survey of methods, trends, and challenges"** [[Paper](https://arxiv.org/abs/2010.11934)]
+4. **"Sentiment analysis in the age of generative ai"** [[Paper](https://arxiv.org/abs/2010.11934)]
+5. **"Sentiment analysis in the era of large language models: A reality check"**
+6. **"Leveraging chatgpt as text annotation tool for sentiment analysis"**
+7. **"A comparison of chatgpt and fine-tuned open pre-trained transformers (opt) against widely used sentiment analysis tools: Sentiment analysis of covid-19 survey data"**
+8. **"Man vs. machine: An applied study comparing a manmade lexicon, a machine learned lexicon, and openai’s gpt for sentiment analysis."**
+9. **"A wide evaluation of chatgpt on affective computing tasks"**
+10. **"Is chatgpt a good sentiment analyzer? a preliminary study"**
+11. **"Enhancing large language model with decomposed reasoning for emotion cause pair extraction"**
 #### 1.2 Affective Generation
 
 ### 2. INSTRUCTION TUNING
