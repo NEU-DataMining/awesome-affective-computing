@@ -62,7 +62,22 @@
 16. **"Dialoguellm: Context and emotion knowledge-tuned llama models for emotion recognition in conversations"**
 17. **"Emollms: A series of emotional large language models and annotation tools for comprehensive affective analysis"**
 18. **"Emotion-cause pair extraction: A new task to emotion analysis in texts"**
-19. 136
+19. **"End-to-end emotion-cause pair extraction based on sliding window multi-label learning"**
+20. **"Effective inter-clause modeling for end-to-end emotion-cause pair extraction"**
+21. **"SemEval-2024 task 3: Multimodal emotion cause analysis in conversations"**
+22. **"Nus-emo at semeval-2024 task 3: Instruction-tuning llm for multimodal emotion-cause analysis in conversations"**
+23. **"Prompting and fine-tuning open-sourced large language models for stance classificatio"**
+24. **"Usa: Universal sentiment analysis model & construction of japanese sentiment text classification and part of speech dataset"**
+25. **"Wisdom: Improving multimodal sentiment analysis by fusing contextual world knowledge"**
+26. **"“Instructabsa: Instruction learning for aspect based sentiment analysis"**
+27. **"Unimse: Towards unified multimodal sentiment analysis and emotion recognition"**
+28. **"Ckerc : Joint large language models with commonsense knowledge for emotion recognition in conversation"**
+29. **"Instructerc: Reforming emotion recognition in conversation with a retrieval multi-task llms framework"**
+30. **"Enhancing large language model with decomposed reasoning for emotion cause pair extraction"**
+31. **"A review of affective generation models"**
+32. **""**
+33. **""**
+34. **""**
 #### 2.2 Affective Generation
 1. **""**
 2. **""**
