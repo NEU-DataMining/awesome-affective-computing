@@ -57,6 +57,7 @@
 
 ## Paper List
 ### 1. PRELIMINARY STUDY
+![bg1](https://github.com/NEU-DataMining/awesome-affective-computing/assets/123424732/88794d3f-a4a6-48bb-8cfd-28d73025f024)
 #### 1.1 Affective Understanding
 1. **"A survey of sentiment analysis: Approaches, datasets, and future research"**. [[Paper](https://arxiv.org/abs/1910.10683)] 
 2. **"A review on sentiment analysis from social media platforms"**. [[Paper](https://arxiv.org/abs/2010.11934)]
@@ -95,7 +96,6 @@
 
 ### 2. INSTRUCTION TUNING
 ![Image text](https://github.com/NEU-DataMining/awesome-affective-computing/blob/0a15a8aadd326811b614b194d800dc8c276c0e59/bg2.png)
-![bg1](https://github.com/NEU-DataMining/awesome-affective-computing/assets/123424732/88794d3f-a4a6-48bb-8cfd-28d73025f024)
 #### 2.1 Affective Understanding
 #### 2.2 Affective Generation
 #### 2.3 Multi-task of Affective Computing
