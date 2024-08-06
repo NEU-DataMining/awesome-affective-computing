@@ -40,16 +40,51 @@
 11. **"Emotional intelligence of large language models"**
 12. **"An emotional intelligence benchmark for large language models"**
 13. **"Soul: Towards sentiment and opinion understanding of language"**
-14. **""**
-15. **""**
-16. **""**
-17. **""**
 
 ### 2. INSTRUCTION TUNING
 ![Image text](https://github.com/NEU-DataMining/awesome-affective-computing/blob/0a15a8aadd326811b614b194d800dc8c276c0e59/bg2.png)
 #### 2.1 Affective Understanding
+1. **"A survey of large language models"**
+2. **"Instruction tuning for large language models: A survey"**
+3. **"Lora technology an overview"**
+4. **"Prefix-tuning: Optimizing continuous prompts for generation"**
+5. **"P-tuning: Prompt tuning can be comparable to fine-tuning across scales and tasks"**
+6. **"Exploring the limits of transfer learning with a unified text-to-text transformer"**
+7. **"Customising general large language models for specialised emotion recognition tasks"**
+8. **"Chatglm: A family of large language models from glm-130b to glm-4 all tools"**
+9. **"Enhancing financial sentiment analysis via retrieval augmented large language models"**
+10. **"Supernaturalinstructions:generalization via declarative in structions on 1600+ tasks"**
+11. **"Instruction tuning for few-shot aspect based sentiment analysis"**
+12. **"Unisa: Unified generative framework for sentiment analysis"**
+13. **"Llama 2: Open foundation and fine-tuned chat models"**
+14. **"MELD: A multimodal multi-party dataset for emotion recognition in conversations"**
+15. **"Emotion detection on tv show transcripts with sequence-based convolutional neural networks"**
+16. **"Dialoguellm: Context and emotion knowledge-tuned llama models for emotion recognition in conversations"**
+17. **"Emollms: A series of emotional large language models and annotation tools for comprehensive affective analysis"**
+18. **"Emotion-cause pair extraction: A new task to emotion analysis in texts"**
+19. 136
 #### 2.2 Affective Generation
+1. **""**
+2. **""**
+3. **""**
+4. **""**
+5. **""**
+6. **""**
+7. **""**
+8. **""**
+9. **""**
+10. **""**
 #### 2.3 Multi-task of Affective Computing
+1. **""**
+2. **""**
+3. **""**
+4. **""**
+5. **""**
+6. **""**
+7. **""**
+8. **""**
+9. **""**
+10. **""**
 
 ### 3. PROMPT ENGINEERING
 ![Image text](https://github.com/NEU-DataMining/awesome-affective-computing/blob/0a15a8aadd326811b614b194d800dc8c276c0e59/bg3.png)
