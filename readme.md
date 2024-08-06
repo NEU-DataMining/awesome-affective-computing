@@ -3,6 +3,8 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 ## 🤖 The traditional tasks of Affective Computing
+
+![Image text](https://github.com/NEU-DataMining/awesome-affective-computing/blob/0a15a8aadd326811b614b194d800dc8c276c0e59/bg1.png)
 <div align="left">
 <table class="tg">
 <thead>
@@ -92,12 +94,14 @@
 17. **""**
 
 ### 2. INSTRUCTION TUNING
+![Image text](https://github.com/NEU-DataMining/awesome-affective-computing/blob/0a15a8aadd326811b614b194d800dc8c276c0e59/bg2.png)
 ![bg1](https://github.com/NEU-DataMining/awesome-affective-computing/assets/123424732/88794d3f-a4a6-48bb-8cfd-28d73025f024)
 #### 2.1 Affective Understanding
 #### 2.2 Affective Generation
 #### 2.3 Multi-task of Affective Computing
 
 ### 3. PROMPT ENGINEERING
+![Image text](https://github.com/NEU-DataMining/awesome-affective-computing/blob/0a15a8aadd326811b614b194d800dc8c276c0e59/bg3.png)
 #### 3.1 Affective Understanding
 #### 3.2 Affective Generation
 
