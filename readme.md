@@ -65,7 +65,29 @@
 9. **"A wide evaluation of chatgpt on affective computing tasks"**
 10. **"Is chatgpt a good sentiment analyzer? a preliminary study"**
 11. **"Enhancing large language model with decomposed reasoning for emotion cause pair extraction"**
+12. **"Revisiting sentiment analysis for software engineering in the era of large language models. "**
+13. **"Will affective computing emerge from foundation models and general artificial intelligence? a first evaluation of chatgpt"**
+14. **"On prompt sensitivity of chatgpt in affective computing"**
+15. **"Secrets of rlhf in large language models part i: Ppo"**
+16. **"Sentimentanalysis in the age of generative ai"**
 #### 1.2 Affective Generation
+1. **"Towards empathetic open-domain conversation models: a new benchmark and dataset,"**
+2. **"Towards emotional support dialog systems"**
+3. **"Is chatgpt equipped with emotional dialogue capabilities?"**
+4. **"Is chatgpt more empathetic than humans?"**
+5. **"Emotional intelligence -- a review and evaluation study"**
+6. **"Measuring emotional intelligence with the msceit v2.0"**
+7. **"Models of emotional intelligence"**
+8. **"Chatgpt outperforms humans in emotional awareness evaluations"**
+9. **"The six emotional dimension (6de) model: A multidimensional approach to analyzing human emotions and unlocking the potential of emotionally intelligent artificial intelligence (ai) via large language models (llm)"**
+10. **"The levels of emotional awareness scale: A cognitive-developmental measure of emotion"**
+11. **"Emotional intelligence of large language models"**
+12. **"An emotional intelligence benchmark for large language models"**
+13. **"Soul: Towards sentiment and opinion understanding of language"**
+14. **""**
+15. **""**
+16. **""**
+17. **""**
 
 ### 2. INSTRUCTION TUNING
 ![bg1](https://github.com/NEU-DataMining/awesome-affective-computing/assets/123424732/88794d3f-a4a6-48bb-8cfd-28d73025f024)
