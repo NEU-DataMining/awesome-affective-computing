@@ -3,6 +3,7 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 ## 🤖 The traditional tasks of Affective Computing
+<div align="left">
 <table class="tg">
 <thead>
   <tr>
@@ -50,6 +51,7 @@
 </td> 
   </tr>
 </tbody>
+</div>
 
 ## Paper List
 ### 1. PRELIMINARY STUDY
