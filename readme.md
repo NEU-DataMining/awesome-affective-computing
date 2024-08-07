@@ -94,11 +94,107 @@
 ### 3. PROMPT ENGINEERING
 ![Image text](https://github.com/NEU-DataMining/awesome-affective-computing/blob/0a15a8aadd326811b614b194d800dc8c276c0e59/bg3.png)
 #### 3.1 Affective Understanding
-#### 3.2 Affective Generation
+1. **"Language models are few-shot learners"**
+2. **"Generative agents: Interactive simulacra of human behavior"**
+3. **"Wisdom: Improving multimodal sentiment analysis by fusing contextual world knowledge"**
+4. **"Enhance multi-domain sentiment analysis of review texts through prompting strategies"**
+5. **"Large language models performance comparison of emotion and sentiment classification"**
+6. **"Self-consistent reasoning-based aspect-sentiment quad prediction with extract-then-assign strategy"**
+7. **"A wide evaluation of chatgpt on affective computing tasks"**
+8. **"Large language models understand and can be enhanced by emotional stimuli"**
+9. **"Enhancing empathetic and emotion support dialogue generation with prophetic commonsense inference"**
+10. **"Chain-of-thought prompting elicits reasoning in large language models"**
+11. **"Camel: Communicative agents for" mind" exploration of large language model society"**
+12. **"Autogen: Enabling next-gen llm applications via multi-agent conversation framework"**
+13. **"Stability analysis of chatgpt-based sentiment analysis in ai quality assurance"**
+14. **"Sentiment and interest detection in social media using gpt-based large language models"**
+15. **"Large language model-based emotional speech annotation using context and acoustic feature for speech emotion recognition"**
+16. **"Introducing the lcc metaphor datasets"**
+17. **"Reasoning in conversation: Solving subjective tasks through dialogue simulation for large language models"**
+18. **"Aspect sentiment quad prediction as paraphrase generation"**
+19. **"An empirical study of multimodal entity-based sentiment analysis with chatgpt: Improving in-context learning via entity-aware contrastive learning"**
+20. **"Visual instruction tuning"**
+21. **"mplug-owl2: Revolutionizing multi-modal large language model with modality collaboration"**
+22. **"Depression detection in clinical interviews with llm-empowered structural element graph"**
+23. **"Dialectical behavioral therapy: A cognitive behavioral approach to parasuicide"**
+24. **"Person-centered therapy: A pluralistic perspective"**
+25. **"Using the wdep system of reality therapy to support person-centered treatment planning"**
+26. **"Evolutionary multiobjective optimization of large language model prompts for balancing sentiments"**
+27. **"Ntusdfin: a market sentiment dictionary for financial social media data application"**
+28. **"Llms to the moon? reddit market sentiment analysis with large language models"**
+29. **"Can generative agents predict emotion?"**
+30. **"Designing heterogeneous llm agents for financial sentiment analysis"**
 
+
+#### 3.2 Affective Generation
+1. **""**
+2. **""**
+3. **""**
+4. **""**
+5. **""**
+6. **""**
+7. **""**
+8. **""**
+9. **""**
+10. **""**
+11. **""**
+12. **""**
+13. **""**
+14. **""**
+15. **""**
+16. **""**
+17. **""**
+18. **""**
+19. **""**
+20. **""**
+21. **""**
+22. **""**
 ### 4. BENCHMARK & EVALUATION
 #### 4.1 Affective Understanding
+1. **""**
+2. **""**
+3. **""**
+4. **""**
+5. **""**
+6. **""**
+7. **""**
+8. **""**
+9. **""**
+10. **""**
+11. **""**
+12. **""**
+13. **""**
+14. **""**
+15. **""**
+16. **""**
+17. **""**
+18. **""**
+19. **""**
+20. **""**
+21. **""**
+22. **""**
 #### 4.2 Affective Generation
-
+1. **""**
+2. **""**
+3. **""**
+4. **""**
+5. **""**
+6. **""**
+7. **""**
+8. **""**
+9. **""**
+10. **""**
+11. **""**
+12. **""**
+13. **""**
+14. **""**
+15. **""**
+16. **""**
+17. **""**
+18. **""**
+19. **""**
+20. **""**
+21. **""**
+22. **""**
 
 
