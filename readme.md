@@ -69,37 +69,27 @@
 23. **"Prompting and fine-tuning open-sourced large language models for stance classificatio"**
 24. **"Usa: Universal sentiment analysis model & construction of japanese sentiment text classification and part of speech dataset"**
 25. **"Wisdom: Improving multimodal sentiment analysis by fusing contextual world knowledge"**
-26. **"“Instructabsa: Instruction learning for aspect based sentiment analysis"**
+26. **"Instructabsa: Instruction learning for aspect based sentiment analysis"**
 27. **"Unimse: Towards unified multimodal sentiment analysis and emotion recognition"**
 28. **"Ckerc : Joint large language models with commonsense knowledge for emotion recognition in conversation"**
 29. **"Instructerc: Reforming emotion recognition in conversation with a retrieval multi-task llms framework"**
 30. **"Enhancing large language model with decomposed reasoning for emotion cause pair extraction"**
-31. **"A review of affective generation models"**
-32. **""**
-33. **""**
-34. **""**
 #### 2.2 Affective Generation
-1. **""**
-2. **""**
-3. **""**
-4. **""**
-5. **""**
-6. **""**
-7. **""**
-8. **""**
-9. **""**
-10. **""**
+1. **"A review of affective generation models"**
+2. **"Building emotional support chatbots in the era of llms"**
+4. **"Enhancing empathetic and emotion support dialogue generation with prophetic commonsense inference"**
+5. **"Stickerconv: Generating multimodal empathetic responses from scratch"**
+6. **"Self-instruct: Aligning language models with self-generated instructions"**
+7. **"Soulchat: Improving llms’ empathy, listening, and comfort abilities through fine-tuning with multi-turn empathy conversations"**
+8. **"Enhancing empathetic and emotion support dialogue generation with prophetic commonsense inference"**
+9. **"Pica: Unleashing the emotional power of large language model"**
+10. **"Emollm"**
+11. **"Qlora: Efficient finetuning of quantized llms"**
 #### 2.3 Multi-task of Affective Computing
-1. **""**
-2. **""**
-3. **""**
-4. **""**
-5. **""**
-6. **""**
-7. **""**
-8. **""**
-9. **""**
-10. **""**
+1. **"Mixlora: Enhancing large language models fine-tuning with lora-based mixture of experts"**
+2. **"Both matter: Enhancing the emotional intelligence of large language models without compromising the general intelligence"**
+3. **"Emoada: A multimodal emotion interaction and psychological adaptation system"**
+
 
 ### 3. PROMPT ENGINEERING
 ![Image text](https://github.com/NEU-DataMining/awesome-affective-computing/blob/0a15a8aadd326811b614b194d800dc8c276c0e59/bg3.png)
