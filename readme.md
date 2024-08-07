@@ -128,27 +128,20 @@
 
 #### 3.2 Affective Generation
 1. **"Investigating the effects of zero-shot chain-of-thought on empathetic dialogue generation"**
-2. **""**
-3. **""**
-4. **""**
-5. **""**
-6. **""**
-7. **""**
-8. **""**
-9. **""**
-10. **""**
-11. **""**
-12. **""**
-13. **""**
-14. **""**
-15. **""**
-16. **""**
-17. **""**
-18. **""**
-19. **""**
-20. **""**
-21. **""**
-22. **""**
+2. **"Emotion-conditioned text generation through automatic prompt optimization"**
+3. **"Prompt your mind: Refine personalized text prompts within your mind"**
+4. **"Sibyl: Sensible empathetic dialogue generation with visionary commonsense knowledge"**
+5. **"Controllable mixed-initiative dialogue generation through prompting"**
+6. **"Can large language models be good emotional supporter? mitigating preference bias on emotional support conversation"**
+7. **"A new dialogue response generation agent for large language models by asking questions to detect user’s intentions"**
+8. **"Prompting and evaluating large language models for proactive dialogues: Clarification, target-guided, and non-collaboration"**
+9. **"Enhancing the emotional generation capability of large language models via emotional chain-of-though"**
+10. **"Escot: Towards interpretable emotional support dialogue system"**
+11. **"Cmdag: A chinese metaphor dataset with annotated grounds as cot for boosting metaphor generation"**
+12. **"Cooper: Coordinating specialized agents towards a complex dialogue goal"**
+13. **"Empathy through multimodality in conversational interfaces"**
+14. **"Llama: Open and efficient foundation language models"**
+
 ### 4. BENCHMARK & EVALUATION
 #### 4.1 Affective Understanding
 1. **""**
