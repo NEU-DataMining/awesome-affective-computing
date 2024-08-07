@@ -144,50 +144,31 @@
 
 ### 4. BENCHMARK & EVALUATION
 #### 4.1 Affective Understanding
-1. **""**
-2. **""**
-3. **""**
-4. **""**
-5. **""**
-6. **""**
-7. **""**
-8. **""**
-9. **""**
-10. **""**
-11. **""**
-12. **""**
-13. **""**
-14. **""**
-15. **""**
-16. **""**
-17. **""**
-18. **""**
-19. **""**
-20. **""**
-21. **""**
-22. **""**
+1. **"Leveraging chatgpt as text annotation tool for sentiment analysis"**
+2. **"Soul: Towards sentiment and opinion understanding of language"**
+3. **"Gpt-4v with emotion: A zero-shot benchmark for generalized emotion recognition,"**
+4. **"Merbench: A unified evaluation benchmark for multimodal emotion recognition"**
+5. **"MELD: A multimodal multi-party dataset for emotion recognition in conversations"**
+6. **"Tensor fusion network for multimodal sentiment analysis"**
+7. **"Multimodal language analysis in the wild: Cmu-mosei dataset and interpretable dynamic fusion graph"**
+8. **"Ch-sims: A chinese multimodal sentiment analysis dataset with fine-grained annotation of modality"**
+9. **"Make acoustic and visual cues matter: Ch-sims v2.0 dataset and av-mixup consistent module"**
+10. **"Towards empathetic open-domain conversation models: A new benchmark and dataset"**
+11. **"Pens: A dataset and generic framework for personalized news headline generation"**
+12. **"Senticap: Generating image descriptions with sentiments"**
+13. **"Microsoft coco: Common objects in context"**
+14. **"Augesc: Dialogue augmentation with large language models for emotional support conversation"**
+15. **"The ability model of emotional intelligence: Principles and updates"**
+16. **"Emotion and intent joint understanding in multimodal conversation: A benchmarking dataset"**
 #### 4.2 Affective Generation
-1. **""**
-2. **""**
-3. **""**
-4. **""**
-5. **""**
-6. **""**
-7. **""**
-8. **""**
-9. **""**
-10. **""**
-11. **""**
-12. **""**
-13. **""**
-14. **""**
-15. **""**
-16. **""**
-17. **""**
-18. **""**
-19. **""**
-20. **""**
-21. **""**
-22. **""**
-
-
+1. **"Eq-bench: An emotional intelligence benchmark for large language model"**
+2. **"Both matter: Enhancing the emotional intelligence of large language models without compromising the general intelligence"**
+3. **"Can large language models be good emotional supporter? mitigating preference bias on emotional support conversation"**
+4. **"Cue-cot: Chain-of-thought prompting for responding to in-depth dialogue questions with llms"**
+5. **"A wide evaluation of chatgpt on affective computing tasks"**
+6. **"Enhancing the emotional generation capability of large language models via emotional chain-of-thought"**
+7. **"Feel: A framework for evaluating emotional support capability with large language models,"**
+8. **"Medic: A multimodal empathy dataset in counseling"**
+9. **"Emotionally numb or empathetic? evaluating how llms feel using emotionbench"**
+10. **"Harnessing the power of large language models for empathetic response generation: Empirical investigations and improvement"**
+11. **"Towards emotional support dialog systems"**
