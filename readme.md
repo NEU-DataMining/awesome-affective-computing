@@ -127,7 +127,7 @@
 
 
 #### 3.2 Affective Generation
-1. **""**
+1. **"Investigating the effects of zero-shot chain-of-thought on empathetic dialogue generation"**
 2. **""**
 3. **""**
 4. **""**
